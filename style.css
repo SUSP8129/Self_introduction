@@ -9,3 +9,7 @@
 .blank {
     white-space: nowrap;
 }
+
+.last {
+    padding-left: 30px;
+}
