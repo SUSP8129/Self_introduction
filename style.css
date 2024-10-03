@@ -5,3 +5,7 @@
 .two {
     background-color: orange;
 }
+
+.blank {
+    white-space: nowrap;
+}
