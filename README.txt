@@ -1,5 +1,2 @@
-# Self_introduction
-
-Hello. My name is SUSP8129.
-I'm an Blogger. 
+This is the summary of URLs of my works.
 
