@@ -10,6 +10,9 @@
     white-space: nowrap;
 }
 
+.additional {
+    background-color: brown;
+}
 .last {
     padding-left: 30px;
 }
