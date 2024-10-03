@@ -12,7 +12,9 @@
 
 .additional {
     background-color: brown;
+    padding-top: 20px;
 }
+
 .last {
     padding-left: 30px;
 }
