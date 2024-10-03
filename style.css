@@ -6,6 +6,10 @@
     background-color: orange;
 }
 
+a {
+    word-break: break-all;
+}
+
 .blank {
     white-space: nowrap;
 }
