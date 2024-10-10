@@ -24,3 +24,7 @@ header .headline{
 .zero {
     background-color: plum;
 }
+
+.space {
+    padding-top: 10px;
+}
