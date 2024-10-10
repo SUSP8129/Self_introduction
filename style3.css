@@ -2,6 +2,10 @@
     background-color: lightgoldenrodyellow;
 }
 
+.back {
+    text-align: center;
+}
+
 .zero {
     background-color: lightgreen;
 }
