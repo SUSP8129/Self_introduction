@@ -1,28 +1,23 @@
-.one {
-    background-color: lightcoral;
+* {
+    margin:0; padding:0;
 }
-
-.two {
-    background-color: orange;
+header {
+    width: 100%;
+    padding: 15px 0;
+    margin: 0 auto;
+    text-align: center;
 }
-
-a {
-    word-break: break-all;
+header .headline{
+    font-size: 32px;
 }
-
-.blank {
-    white-space: nowrap;
+.nav-list {
+    text-align: center;
+    padding: 10px 0;
+    margin: 0 auto;
 }
-
-.additional {
-    background-color: brown;
-    padding-top: 20px;
+.nav-list-item {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
 }
-
-.x  {
-    padding-top: 20px;
-}
-
-.last {
-    padding-top: 50px;
-}
+    
