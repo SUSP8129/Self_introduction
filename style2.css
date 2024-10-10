@@ -33,4 +33,10 @@ a {
 
 .last {
     padding-top: 50px;
+    text-align: center;
+}
+
+.copyright {
+    text-align: center;
+    padding-top: 20px;
 }
