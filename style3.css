@@ -1,13 +1,35 @@
-.blank {
-    background-color: lightgoldenrodyellow;
+* {
+    margin:0; padding:0;
 }
-
-.back {
+header {
+    width: 100%;
+    padding: 15px 0;
+    margin: 0 auto;
     text-align: center;
+    background-color: lightgray;
+    color: black;
+}
+header .headline{
+    font-size: 32px;
+}
+.nav-list {
+    text-align: center;
+    padding: 10px 0;
+    margin: 0 auto;
+}
+.nav-list-item {
+    list-style: none;
+    display: inline-block;
+    margin: 0 20px;
 }
 
 .zero {
     background-color: lightgreen;
+}
+
+.main_text {
+    padding-top: 5px;
+    padding-bottom: 5px;
 }
 
 .copyright {
