@@ -28,6 +28,11 @@ header .headline{
     background-color: lightcoral;
 }
 
+.main_text {
+    padding-top: 5px;
+    padding-bottom: 5px;
+}
+
 .two {
     background-color: orange;
 }
@@ -40,9 +45,12 @@ a {
     white-space: nowrap;
 }
 
+.three {
+    background-color: green;
+}
+
 .additional {
     background-color: brown;
-    padding-top: 20px;
 }
 
 .x  {
