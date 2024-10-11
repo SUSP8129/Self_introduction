@@ -27,6 +27,10 @@ header .headline{
     text-align: center;
 }
 
+h1 {
+    text-align: center;
+}
+
 .one {
     background-color: lightcoral;
 }
