@@ -35,4 +35,6 @@ header .headline{
 
 .copyright {
     text-align: center;
+    background-color: lightblue;
+    padding-top: 20px;
 }
