@@ -65,6 +65,7 @@ a {
 }
 
 .last {
+    background-color: lightgreen;
     padding-top: 50px;
     text-align: center;
 }
