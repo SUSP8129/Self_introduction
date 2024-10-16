@@ -33,10 +33,12 @@ header .headline{
     background-color: lightgreen;
     padding-top: 20px;
     text-align: center;
+    margin: 0;
 }
 
 .copyright {
     text-align: center;
     background-color: lightblue;
     padding-top: 10px;
+    margin: 0;
 }
