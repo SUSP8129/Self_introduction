@@ -29,6 +29,10 @@ header .headline{
     padding-top: 10px;
 }
 
+.additional {
+    padding-left: 10px;
+}
+
 .last {
     background-color: lightgreen;
     padding-top: 20px;
