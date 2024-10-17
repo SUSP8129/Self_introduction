@@ -1,0 +1,53 @@
+<?xml version="1.0" encoding="UTF-8"?>
+
+<urlset xmlns="https://susp8129.github.io/">
+
+   <url>
+
+      <loc>https://susp8129.github.io/Works_Summary/</loc>
+
+      <lastmod>2024-10-17T20:00+09:00</lastmod>
+
+      <changefreq>weekly</changefreq>
+
+      <priority>1.0</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://susp8129.github.io/Article_Learning_Methods/</loc>
+
+      <lastmod>2024-10-17T20:00+09:00</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://susp8129.github.io/SUSP8129/</loc>
+
+      <lastmod>2024-10-17T20:00+09:00</lastmod>
+
+      <changefreq>monthly</changefreq>
+
+      <priority>0.6</priority>
+
+   </url>
+
+   <url>
+
+      <loc>https://susp8129.github.io/About_Caret</loc>
+
+      <lastmod>2024-10-17T20:00+09:00</lastmod>
+
+      <changefreq>monthly<changefreq>
+
+      <priority>0.5</priority>
+
+   </url>
+
+</urlset>
