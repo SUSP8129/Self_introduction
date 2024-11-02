@@ -1,10 +1,4 @@
-User-agent: Googlebot
-Disallow: /nogooglebot/
+To do
 
-User-agent: *
-Allow: /
+1. Eliminate h1 duplication - done
 
-User-agent: bingbot 
-Disallow: /not-for-bing/
-
-Sitemap: https://susp8129.github.io/Works_Summary/sitemap.xml
