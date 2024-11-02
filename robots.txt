@@ -4,7 +4,7 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://susp8129.github.io/Works_Summary/sitemap.xml
-
 User-agent: bingbot 
-Disallow: /not-for-bing/ 
+Disallow: /not-for-bing/
+
+Sitemap: https://susp8129.github.io/Works_Summary/sitemap.xml
