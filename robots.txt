@@ -4,4 +4,4 @@ Disallow: /nogooglebot/
 User-agent: *
 Allow: /
 
-Sitemap: https://susp8129.github.io/sitemap.xml
+Sitemap: https://susp8129.github.io/Works_Summary/sitemap.xml
