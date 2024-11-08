@@ -4,7 +4,7 @@
 
    <url>   
 
-      <loc>https://susp8129.github.io/Works_Summary/index.html</loc>
+      <loc>https://susp8129.github.io/Works_Summary/</loc>
 
       <lastmod>2024-10-17T20:00+09:00</lastmod>
 
@@ -13,31 +13,7 @@
       <priority>1.0</priority>
 
    </url>
-
-   <url>
-
-   <loc>https://susp8129.github.io/Works_Summary/Articles.html</loc>
-
-      <lastmod>2024-10-17T20:00+09:00</lastmod>
-
-      <changefreq>weekly</changefreq>
-
-      <priority>0.9</priority>
-
-   </url>
-
-   <url>
-
-      <loc>https://susp8129.github.io/Works_Summary/about.html</loc>
-
-      <lastmod>2024-10-17T20:00+09:00</lastmod>
-
-      <changefreq>weekly</changefreq>
-
-      <priority>0.9</priority>
-
-   </url>
-
+   
    <url>
 
       <loc>https://susp8129.github.io/Article_Learning_Methods/</loc>
@@ -49,19 +25,6 @@
       <priority>0.5</priority>
 
    </url>
-
-   <url>
-
-      <loc>https://susp8129.github.io/Article_Learning_Methods/index.html</loc>
-
-      <lastmod>2024-10-17T20:00+09:00</lastmod>
-
-      <changefreq>monthly</changefreq>
-
-      <priority>0.5</priority>
-
-   </url>
-
 
    <url>
 
@@ -86,18 +49,5 @@
       <priority>0.5</priority>
 
    </url>
-
-   <url>
-
-      <loc>https://susp8129.github.io/About_Caret/index.html</loc>
-
-      <lastmod>2024-10-17T20:00+09:00</lastmod>
-
-      <changefreq>monthly</changefreq>
-
-      <priority>0.5</priority>
-
-   </url>
-
 
 </urlset>
