@@ -1,5 +1,8 @@
 To do
 
+If "Upcoming: Nothing", write as follows:
+   Currently, there are no pages that are planned to be published for a while.
+
 1. Eliminate h1 duplication - done
 
 <url>
